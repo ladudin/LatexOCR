@@ -1,4 +1,4 @@
-# EasyTex - выпускной проект программы по машинному обучению в образовательном центре VK в МГТУ им. Н.Э. Баумана
+# EasyTex - выпускной проект программы по машинному обучению 2023-2024 гг. образовательного центра VK в МГТУ им. Н.Э. Баумана
 
 ![EasyTeX](https://github.com/user-attachments/assets/db702e79-f1c1-488f-a998-b3f921baf708)
 ## Пайплайн:
@@ -12,7 +12,7 @@
 ![image](https://github.com/user-attachments/assets/2aa360c9-8c13-4457-a3c2-127cd007f297)
 ### Backend-архитектура
 ![image](https://github.com/user-attachments/assets/3cc24694-3d3d-49df-9165-5b79112baa80)
-### Стек тенхологий
+### Стек технологий
 ![image](https://github.com/user-attachments/assets/eb32b636-768b-4b46-82c2-07b31bcbbcd1)
 
 

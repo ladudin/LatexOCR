@@ -17,6 +17,7 @@
 ![image](https://github.com/user-attachments/assets/ba97a74d-0e90-4efa-8e19-a7b29c53569c)
 ### Стек технологий
 ![image](https://github.com/user-attachments/assets/eb32b636-768b-4b46-82c2-07b31bcbbcd1)
+### [Ссылка на backend часть](https://github.com/t1d333/smartlectures)
 
 ### Команда:
 [Владислав Будин](https://github.com/ladudin) - team lead, ML  

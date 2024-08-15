@@ -1,9 +1,8 @@
 # LatexOCR
 
+![EasyTeX](https://github.com/user-attachments/assets/db702e79-f1c1-488f-a998-b3f921baf708)
+
 ### Установка:
-
-<img src="https://github.com/user-attachments/assets/3a604eb9-0f41-4a64-94fb-f248927e33e0" alt="EasyTeX"/>
-
 
 1. Клонируйте репозиторий:
 ```bash

@@ -1,6 +1,6 @@
 # EasyTex - выпускной проект программы по машинному обучению 2023-2024 гг. образовательного центра VK в МГТУ им. Н.Э. Баумана
 
-<img src="https://github.com/user-attachments/assets/db702e79-f1c1-488f-a998-b3f921baf708" height="400"/>  
+![Screencast from 2024-08-15 12-31-44 (1)](https://github.com/user-attachments/assets/b207a96a-235d-4c58-8e28-b8179939f57d)
 
 ### [Ссылка на презентацию](https://docs.google.com/presentation/d/17mFkbTCdMp7xgYePr9BseTnwkfLBetRe/edit?usp=sharing&ouid=108364898830223737609&rtpof=true&sd=true)
 
